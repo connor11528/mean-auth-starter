@@ -1,6 +1,7 @@
 mean-auth-starter
 =====
 
+> Authentication: Built with the MEAN stack. (JWT, not passport)
 
 
 ### Getting started
